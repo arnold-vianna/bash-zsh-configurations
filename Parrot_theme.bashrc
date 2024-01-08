@@ -2,6 +2,11 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
+#######################################################
+# Author: Arnold Vianna  
+# https://github.com/arnold-vianna
+#######################################################
+
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
